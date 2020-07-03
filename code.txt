@@ -13,12 +13,13 @@ this line was added by user1 in branch2
 
 
 
-
-
-
-
-
-
+git init
+git status
+git log
+git add .
+git commit -m "enter message"
+git branch branch-name
+git checkout branch-name
 
 
 
