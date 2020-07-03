@@ -1,2 +1,10 @@
 this line was added by user1
 this line 2 was added by user1
+
+
+this line was added by user1 in branch2
+this line was added by user1 in branch2
+this line was added by user1 in branch2
+this line was added by user1 in branch2
+this line was added by user1 in branch2
+this line was added by user1 in branch2
